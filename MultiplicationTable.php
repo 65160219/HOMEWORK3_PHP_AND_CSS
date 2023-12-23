@@ -26,15 +26,26 @@
 
     <style>
         table {
-            width: 150px;
-            height: 265px;
+            width: 130px;
+            height: 225px;
+            
         }div {
-            width: 150px;
+            width: 130px;
             height: 225px;
             border: 1px solid black;
-            overflow: auto;
+            overflow: scroll;
+            background-color: #F6C8B6;
+            margin: auto;
+            padding: 10px
         }h1 {
-          font-family: 'cursive';
+            font-family: 'Itim', 'cursive';
+            font-family: 'Kanit', sans-serif;
+            text-align: center;
+            font-size: 32px;
+            color:#212121;
+        }body{
+            background-color: #C5D6BA;
+            padding: 50px
         }
     </style>
 </body>

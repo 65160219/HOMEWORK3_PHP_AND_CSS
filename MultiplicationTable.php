@@ -28,7 +28,6 @@
         table {
             width: 130px;
             height: 225px;
-            
         }div {
             width: 130px;
             height: 225px;
@@ -48,6 +47,7 @@
             padding: 50px
         }
     </style>
+    
 </body>
 
 </html>
